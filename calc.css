@@ -1,0 +1,186 @@
+.center{
+
+    position: absolute;
+    display: block;
+    left: 50%;
+    right: 50%;
+    width: 327px;
+    height: 537px;
+
+}
+button#id0 {
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 82px;
+    width: 80px;
+    height: 53px;
+}
+button#id1 {
+   position: absolute;
+    margin-top: -115px;
+    margin-left: 1px;
+    width: 80px;
+    height: 53px;
+}
+button#id2 {
+       position: absolute;
+    margin-top: -115px;
+    margin-left: 82px;
+    width: 80px;
+    height: 53px;
+}
+button#id3 {
+    position: absolute;
+    margin-top: -115px;
+    margin-left: 163px;
+    width: 80px;
+    height: 53px;
+}
+button#id4 {
+    position: absolute;
+    margin-top: -169px;
+    margin-left: 1px;
+    width: 80px;
+    height: 53px;
+}
+button#id5 {
+    position: absolute;
+    margin-top: -169px;
+    margin-left: 82px;
+    width: 80px;
+    height: 53px;
+}
+button#id6 {
+    position: absolute;
+    margin-top: -169px;
+    margin-left: 163px;
+    width: 80px;
+    height: 53px;
+}
+button#id7 {
+    position: absolute;
+    margin-top: -223px;
+    margin-left: 1px;
+    width: 80px;
+    height: 53px;
+}
+button#id8 {
+    position: absolute;
+    margin-top: -223px;
+    margin-left: 82px;
+    width: 80px;
+    height: 53px;
+}
+button#id9 {
+    position: absolute;
+    margin-top: -223px;
+    margin-left: 163px;
+    width: 80px;
+    height: 53px;
+}
+button#id_ravno {
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 244px;
+    width: 80px;
+    height: 53px;
+}
+button#id_pl_mi {
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 1px;
+    width: 80px;
+    height: 53px;
+}
+button#id_zap {
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 163px;
+    width: 80px;
+    height: 53px;
+}
+button#id_plus {
+    position: absolute;
+    margin-top: -115px;
+    margin-left: 244px;
+    width: 80px;
+    height: 53px;
+}
+button#id_minus {
+    position: absolute;
+    margin-top: -169px;
+    margin-left: 244px;
+    width: 80px;
+    height: 53px;
+}
+button#id_mnoj {
+    position: absolute;
+    margin-top: -223px;
+    margin-left: 244px;
+    width: 80px;
+    height: 53px;
+}
+button#id_dil {
+    position: absolute;
+    margin-top: -277px;
+    margin-left: 244px;
+    width: 80px;
+    height: 53px;
+}
+button#id_del {
+    position: absolute;
+    margin-top: -277px;
+    margin-left: 82px;
+    width: 80px;
+    height: 53px;
+}
+button#id_kor {
+    position: absolute;
+    margin-top: -333px;
+    margin-left: 82px;
+    width: 80px;
+    height: 53px;
+}
+button#id_vidsotok {
+    position: absolute;
+    margin-top: -333px;
+    margin-left: 1px;
+    width: 80px;
+    height: 53px;
+}
+button#id_x2 {
+    position: absolute;
+    margin-top: -333px;
+    margin-left: 163px;
+    width: 80px;
+    height: 53px;
+}
+button#id_1x {
+    position: absolute;
+    margin-top: -333px;
+    margin-left: 244px;
+    width: 80px;
+    height: 53px;
+}
+#result {
+    position: absolute;
+    margin-top: -445px;
+    margin-left: 284px;
+    width: 80px;
+    height: 53px;
+    color: white;
+    font-size: 50px;
+}
+button#id_с {
+    position: absolute;
+    margin-top: -277px;
+    margin-left: 163px;
+    width: 80px;
+    height: 53px;
+}
+div#arhiv{
+    position: absolute;
+    margin-top: -466px;
+    color: #f7fff6;
+    margin-left: 15px;
+}
